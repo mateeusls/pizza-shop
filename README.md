@@ -31,7 +31,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/pizza-shop.git
+git clone https://github.com/mateeusls/pizza-shop.git
 ```
 
 2. Navegue até o diretório do projeto:
@@ -43,19 +43,19 @@ cd pizza-shop
 3. Instale as dependências:
 
 ```bash
-npm install
+pnpm install
 ```
 
 4. Inicie o servidor de desenvolvimento:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 5. Acesse a aplicação em seu navegador:
 
 ```bash
-http://localhost:3000
+http://localhost:5173
 ```
 
 ## Contribuição
@@ -64,7 +64,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue caso i
 
 ## Autor
 
-[Seu Nome](https://github.com/seu-usuario)
+[Matheus Lopes](https://github.com/mateeusls)
 
 ## Licença
 
